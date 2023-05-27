@@ -1,0 +1,50 @@
+/* HTML Selectors */
+.bg {
+    background-image: url("/images/bulbasaur.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 96vh;
+}
+
+h1, h4{
+    margin: 10px auto;
+    color: white;
+}
+
+p {
+    margin-top: 20px;
+    color: white;
+}
+
+article {
+    margin: 10px;
+    display: inline;
+}
+
+body {
+    font-family: 'Kalam', cursive;
+}
+
+div {
+    margin: 10px;
+    text-align: center;
+}
+
+header {
+    margin: auto;
+    text-align: center;
+}
+
+img {
+    width: 25%;
+}
+
+label {
+    display: inline-block;
+    min-width: 120px;
+    text-align: right;
+}
+
+main {
+    text-align: center;
+}
